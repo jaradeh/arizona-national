@@ -1,0 +1,34 @@
+/* Theme transition Effect */
+*:after,
+*:before,
+a,
+p,
+h1,h2,h3,h4,h5,h6,
+button,
+.search-bar,
+.classes-column,
+.on-hover,
+.overlay,
+.testimonial-thumbs li figure img,
+.testimonial-thumbs li,
+.is-sticky .nav-holder,
+.logo,
+.search-modal,
+.nav-list ul li ul,
+.cart-item .cart-list li,
+.product-column,
+.cart-items,
+.banner-slider .slick-dots li,
+.testimonial-slides .slick-dots li
+{-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;}
+
+
+
+
+
+
+

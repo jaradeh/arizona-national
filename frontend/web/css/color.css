@@ -1,0 +1,100 @@
+/***** Theme Primary Color (Blue) ******/
+
+/* color */
+a:hover,
+.theme-color,
+.caption-text h2,
+.caption-text h3 span,
+.big-heading h2 span,
+.b-line span,
+.btn.bold-color,
+.facts-acounter li h3 span,
+.team-column .detail h5,
+.quote-holder p i,
+.parallax-text h3,
+.detail h3 span,
+.get-in-touch h4,
+.join-us h4,
+.join-us button,
+.join-us button:hover,
+.join-us-form input,
+.pruchase-theme h3 span,
+.footer-widget h3 span,
+.latest-news-list li div span,
+.sr-widget h3 span,
+.search-bar a,
+.news-post .detail h3 a span,
+.shop-sort > ul > li > a,
+.categories-list ul li a:hover,
+.is-sticky .nav-holder .search-nd-cart li > a,
+.blog-grid .title h3 a:hover,
+.cbp-l-grid-projects-title a:hover,
+.range-slider .slider.slider-horizontal .slider-tick::before, 
+.range-slider .slider.slider-horizontal .slider-handle::before,
+.tab-nav li.active a,
+footer.style-2 .social-icons ul > li > a,
+footer.style-2 .address-figure .address-list li > span,
+.theme-pagination ul li a:hover,
+.theme-breadcrumb li a:hover
+{color: #253062;}
+
+
+/* Background Color */
+.btn.dark,
+.btn:hover,
+.social-icons ul li a:hover,
+.search-nd-cart li > a:hover,
+.service-column:hover .service-icon,
+.theme-skillbar,
+.reviews-list .slick-dots li.slick-active,
+.post-detail article blockquote,
+.gallery-figure .overlay ul li a,
+.check-list li::before,
+.tag-cloud a:hover,
+.search-modal form button,
+.toggleMenu:hover,
+.toggleMenu,
+.topbar li a span,
+.sale-batch,
+.cencel-product:hover,
+.slider-selection,
+.latest-news-list li > span,
+.scrollup,
+.btn-cart span,
+.banner-slider .slick-dots li.slick-active,
+.banner-slider .slick-dots li.slick-active::before,
+.testimonial-slides .slick-dots li.slick-active,
+.testimonial-slides .slick-dots li.slick-active::before
+{background: #253062;}
+
+/* Border Color */
+.nav-list ul li a::before,
+.big-heading h2 span,
+.b-line span,
+.btn.bold-color,
+.btn.bold-color::before,
+.join-us-form input,
+.social-icons ul li a:hover,
+.social-icons ul li a:hover::before,
+.btn:hover::before,
+.btn:hover,
+.search-nd-cart li > a:hover::before,
+.search-nd-cart li > a:hover,
+.is-sticky .nav-holder .search-nd-cart li > a::before,
+.is-sticky .nav-holder .search-nd-cart li > a,
+.toggleMenu::before,
+.toggleMenu,
+.tab-nav li.active a::before,
+footer.style-2 .social-icons ul > li > a,
+footer.style-2 .social-icons ul > li > a::before,
+.theme-pagination ul li a:hover
+{border-color: #253062;}
+
+
+
+
+/* Input colors */
+.join-us-form .form-control::-webkit-input-placeholder{ color: #1b5f94;}
+.join-us-form .form-control:-moz-placeholder{ color: #1b5f94;}
+.join-us-form .form-control::-moz-placeholder{ color: #1b5f94;}
+.join-us-form .form-control:-ms-input-placeholder{ color: #1b5f94;}
